@@ -1,6 +1,8 @@
 # Headphone Affiliate Site Demo
 A quick site I made over a weekend to demonstrate my knowledge of HTML, CSS, Javascript. I attempted to make the site with a modern design: simple yet as apealing as possible; using a limited color pallete, and a general lack of clutter.
 
+![gif of scrolling site](./Site_Photos/Site_Showoff.gif)
+
 #Description
 This site was created for a project in a web development course at Elon University. The site goals were extremley open ended: make a site with 20 headphone listings, with a "headphone reccomender" that reccomends headphones based on feeback from questions. Any decisions on how the site was designed visually was up to us. I had a lot of fun building this frontend, and thought I would share it.
 
