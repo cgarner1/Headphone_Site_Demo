@@ -3,7 +3,7 @@ A quick site I made over a weekend to demonstrate my knowledge of HTML, CSS, Jav
 
 ![gif of scrolling site](./Site_Photos/Site_Showoff.gif)
 
-#Description
+# Description
 This site was created for a project in a web development course at Elon University. The site goals were extremley open ended: make a site with 20 headphone listings, with a "headphone reccomender" that reccomends headphones based on feeback from questions. Any decisions on how the site was designed visually was up to us. I had a lot of fun building this frontend, and thought I would share it.
 
 One important constraint in the project of note is that we were *only* use HTML CSS and Javascript. No Database functionality. This meant rather awkwardly hardcoding this database of product listings into the Javascript file. Luckily, ECMA 2015 added Classes, which made doing so a little less painful.
